@@ -1,7 +1,9 @@
-# Hi, I'm Zeynep! 👋
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Zeynep&fontSize=90&animation=fadeIn" />
 </p>
+
+# Hi, I'm Zeynep! 👋
+
 ### 💫 About Me
 - 🎓 **Computer Science Student**
 - 🐍 Learning **Python** and building small projects.
