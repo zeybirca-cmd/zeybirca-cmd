@@ -1,9 +1,7 @@
 # Hi, I'm Zeynep! 👋
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Mmt6ZzR6bmZ6ZzR6bmZ6ZzR6bmZ6ZzR6bmZ6ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/vS3fS0oWvKx1W/giphy.gif" width="200" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Zeynep&fontSize=90&animation=fadeIn" />
 </p>
-
 ### 💫 About Me
 - 🎓 **Computer Science Student**
 - 🐍 Learning **Python** and building small projects.
